@@ -5,7 +5,7 @@ public class _10_Conditional2 {
     public static void main(String[] args) {
 
         Scanner klavye = new Scanner(System.in);
-        System.out.println("Lütfen hafta içi gün sayısını giriniz");
+        System.out.println("Lütfen hafta içi gün sayısını girin");
         int number = klavye.nextInt();
 
         // if else if
